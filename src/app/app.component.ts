@@ -11,5 +11,5 @@ import { MicomponenteComponent } from './micomponente/micomponente.component';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 't36';
+  title: string = 't36';
 }
